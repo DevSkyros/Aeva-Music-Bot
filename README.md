@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://cdn.discordapp.com/attachments/1492919399479382146/1500979314185867445/Picsart_26-05-05_00-25-27-714.jpg?ex=69fa676b&is=69f915eb&hm=984c9fc5d5003ac2c092ce22a27933a52d46222c196812b1c6a3b365cfa54f10&](https://github.com/DevSkyros/Aeva-Music/blob/main/README.md)" alt="Aeva Banner" width="800">
+  <img src="[[https://cdn.discordapp.com/attachments/1492919399479382146/1500979314185867445/Picsart_26-05-05_00-25-27-714.jpg?ex=69fa676b&is=69f915eb&hm=984c9fc5d5003ac2c092ce22a27933a52d46222c196812b1c6a3b365cfa54f10&](https://github.com/DevSkyros/Aeva-Music/blob/main/README.md)](https://github.com/DevSkyros/Aeva-Music/blob/main/README.md)" alt="Aeva Banner" width="800">
   <br>
   <strong>Experience Smooth & High-Quality Music on Discord</strong>
   <br><br>
