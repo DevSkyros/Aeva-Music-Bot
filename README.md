@@ -57,28 +57,3 @@ Designed with clean UI, fast response time, and stable playback, Aeva makes musi
 git clone https://github.com/yourusername/aeva.git
 cd aeva
 npm install
-
-Configure
-Edit your config file:
-Add Bot Token
-Add Lavalink Node
-Add Database URL (optional)
-
-Start Bot
-```Index.js
-
-### 🌐 Support
-
-Join our community for help and updates:
-👉 https://discord.gg/yourserver⁠�
-
-### 📜 Credits
-Developed with ❤️ by KingX Development
-
-### ⚖️ License
-
-This project is protected under a custom license.
-
-・Credits must not be removed
-・Redistribution requires permission
-・Commercial use is restricted
