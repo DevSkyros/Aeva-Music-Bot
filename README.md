@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://your-banner-link-here.com/banner.png" alt="Aeva Banner" width="800">
+  <img src="https://cdn.discordapp.com/attachments/1492919399479382146/1500979314185867445/Picsart_26-05-05_00-25-27-714.jpg?ex=69fa676b&is=69f915eb&hm=984c9fc5d5003ac2c092ce22a27933a52d46222c196812b1c6a3b365cfa54f10&" alt="Aeva Banner" width="800">
   <br>
   <strong>Experience Smooth & High-Quality Music on Discord</strong>
   <br><br>
   <p>
     <a href="https://discord.gg/yourserver"><img src="https://img.shields.io/discord/YOUR_SERVER_ID?color=5865F2&label=Support&logo=discord&logoColor=white&style=for-the-badge" alt="Support"></a>
-    <a href="https://github.com/yourusername/aeva"><img src="https://img.shields.io/github/stars/yourusername/aeva?color=5865F2&logo=github&style=for-the-badge" alt="Stars"></a>
+    <a href="[https://github.com/DevSkyros/AevaMusic](https://github.com/DevSkyros/Aeva-Music/blob/main/README.md)"><img src="https://img.shields.io/github/stars/yourusername/aeva?color=5865F2&logo=github&style=for-the-badge" alt="Stars"></a>
     <img src="https://img.shields.io/badge/Developed%20By-KingX%20Development-5865F2?style=for-the-badge" alt="Developer">
   </p>
 </div>
