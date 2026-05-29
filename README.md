@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=500&lines=Aeva+Music+Bot;Premium+Audio+Experience;Next‑Gen+Discord+Music" alt="Typing SVG" />
   <br><br>
