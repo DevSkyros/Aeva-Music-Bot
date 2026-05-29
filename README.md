@@ -201,5 +201,3 @@ Commercial use, removal of credits, or redistribution without attribution is str
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=80&section=footer" width="100%">
 </div>
 ```
-
----
